@@ -1,63 +1,47 @@
 # Hi, I’m Emma! 
 Welcome to my GitHub profile — I go by **EmmaScript** here. 😎
 
-## About me 
-My background as a psychologist and my specialization in tech talent reflect my passion for fostering people’s professional growth. Through my professional brand, **Talento IT: The Human Side of Technology**, I work independently
-to search, acquire, and build loyalty with tech talent — strategically and personally connecting professionals with companies.
+## About me
+**Tech Talent Specialist · Partner in tech talent, hiring and career decisions**
 
-## Tech Talent I work with: Senior ICs & Tech Leaders
-### 💻 Software Development
-- Backend Developer  
-- Frontend Developer  
-- Full Stack Developer  
-- Mobile Developer  
-- DevOps Engineer  
-- SysOps Engineer  
-- Cloud Engineer  
-- Site Reliability Engineer (SRE)  
-- QA Engineer / Test Automation Engineer  
-- CI/CD Engineer  
-- Software Architect  
-- Staff Engineer  
-- Principal Engineer  
-- Agile Coach  
-- Delivery Manager  
-- Agile Project Manager  
+Psychologist by background, specialized in tech talent and decision-making in hiring and career development within software engineering teams and organizations.
+
+I work at the intersection of people, technology, and organizational context, helping companies improve how they define roles, evaluate talent, and make hiring decisionss.
+
+Through **Talento IT: The Human Side of Technology,** I work independently with companies to bring structure, context and criteria into tech hiring processes, especially in senior and leadership roles.
+
+My focus is not on filling roles, but on improving how decisions are made.
+
+## Tech Talent I work with Senior Individual Contributors & Technical Leadership
+
+### 💻 Software Engineering 
+Backend · Frontend · Full Stack · Mobile · QA · Software Architecture · Staff / Principal Engineers
+
+### ⚙️ Platform & Infrastructure Engineering 
+Platform Engineers · DevOps · SRE · Cloud Engineering
 
 ### 📊 Data & AI
-- Data Engineer  
-- MLOps Engineer  
-- Data Scientist  
-- AI/ML Engineer  
-- Data Analyst  
-- Data Architect  
+Data Engineering · Data Science · Machine Learning · MLOps · AI/ML Engineering · Data Architecture · Analytics
 
-### 🎨 Product & Design
-- Product Owner  
-- UX/UI Designer  
-- UX Researcher  
+### 📈 Product, Experience & Growth 
+Product Managers · UX/UI Designers · UX Researchers · Go-to-Market · Customer Success
 
 ### 🤝 People & Culture
-- Technical Recruiter  
-- Talent Acquisition Specialist  
-- Employer Branding Specialist  
-- People & Culture Specialist  
-- HR Business Partner  
-- Employee Experience Specialist  
-- Culture Transformation Specialist  
-- DEI Specialist  
+Talent Acquisition · HR Business Partners · People & Culture · Employer Branding · Employee Experience · DEI
 
-### About the roles
-- **Senior Individual Contributors (ICs)**: Experienced professionals who focus on deep technical expertise, delivering high-impact solutions, and driving innovation within their domains. They contribute through hands-on work, mentoring, and technical leadership without direct management responsibilities.
-- **Strategic Leadership Roles**: Focused on managing people, guiding teams, and driving projects and organizational growth. These roles require strong communication skills, decisive decision-making, and the ability to lead effectively in dynamic and complex environments.  
-Examples include: Lead, Manager, Head, Director, VP.
+### 🧭 Engineering Leadership
+Engineering Manager · Engineering Lead · Head of Engineering · Director of Engineering · VP Engineering · CTO
+
 
 > I specialize in connecting companies with management talent who combine technical expertise and human-centered leadership.
 
 ## Writing & Projects 
 - [Open Hiring Matrix](https://github.com/dciccale/openhiringmatrix) — Contributed to this project focused on improving hiring processes with an open and inclusive approach.
 - [Newsletter: El Lado Humano del Liderazgo](https://www.linkedin.com/newsletters/el-lado-humano-del-liderazgo-7217475834402529282/) — Conversations about challenges and missteps in managing people in the tech industry. 
-- Job Search Agent: Creating an AI assistant to help candidates find job opportunities efficiently. 🚧
+- Job Search Agent — AI assistant designed to help candidates identify relevant job opportunities more efficiently. _(in progress)_
+- AI Decision Support Agent for Hiring _(in progress)_ — Development of an AI system based on my decision framework:
+  * META → understanding role context, motivations, and alignment
+  * TRACE → structuring evaluation through clear indicators and real evidence
 
 ## Currently learning & exploring
 - AI tools, Large Language Models (LLMs), and intelligent agents
