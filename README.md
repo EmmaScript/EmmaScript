@@ -2,7 +2,7 @@
 Welcome to my GitHub profile — I go by **EmmaScript** here. 😎
 
 ## About me
-**Tech Talent Specialist · Partner in tech talent, hiring and career decisions**
+**Software Talent Specialist partnering in tech talent, hiring and career decisions**
 
 Psychologist by background, specialized in tech talent and decision-making in hiring and career development within software engineering teams and organizations.
 
